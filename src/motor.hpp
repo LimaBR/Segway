@@ -1,4 +1,4 @@
 class Motor {
     public:
-        void speed ()
-}
+        void speed ();
+};
